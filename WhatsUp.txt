@@ -2,3 +2,4 @@ text message
 video
 call
 groupcall
+attach documents
